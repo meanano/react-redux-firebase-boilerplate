@@ -1,5 +1,7 @@
 # React, Redux Firebase Boilerplate
 
+#### Originaly forked from our core team member -> @david-babunashvili
+
 [![Build Status](https://travis-ci.org/awwong1/react-redux-firebase-boilerplate.svg?branch=master)](https://travis-ci.org/awwong1/react-redux-firebase-boilerplate)
 
 > [Firebase](https://www.firebase.com) is a powerful platform for your mobile and web applications that lets you build apps fast without managing servers. Firebase gives you the tools and infrastructure to build better apps and grow successful businesses.
