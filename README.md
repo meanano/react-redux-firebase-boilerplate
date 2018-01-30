@@ -1,6 +1,6 @@
 # React, Redux Firebase Boilerplate
 
-#### Forked from our core team member @btomashvili
+#### Forked from our core team member [@btomashvili](https://github.com/btomashvili/react-redux-firebase-boilerplate)
 
 
 [![Build Status](https://travis-ci.org/awwong1/react-redux-firebase-boilerplate.svg?branch=master)](https://travis-ci.org/awwong1/react-redux-firebase-boilerplate)
